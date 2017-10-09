@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
 #
+# The LEGO Interface A Python Turtle
+# https://youtu.be/NVY-Ho8WwiI
+# http://ofalcao.pt/blog/2017/lego-interface-a-the-python-turtle
+#
 # This works on Ubuntu 17.04 with pylibftdi-0.16.1.2
 # with a Sparkfun Breakout Board for FT232RL USB to Serial
 # https://www.sparkfun.com/products/12731
